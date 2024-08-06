@@ -28,6 +28,9 @@ Features
 - Quick and secure access to results for students
 - Scalable and reliable database management using XAMPP
 
+  [student_result_management.pdf](https://github.com/user-attachments/files/16513185/student_result_management.pdf)
+
+
 Benefits
 
 - Streamlines student result management process
