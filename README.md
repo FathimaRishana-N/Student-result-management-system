@@ -30,10 +30,3 @@ Features
 
   [student_result_management.pdf](https://github.com/user-attachments/files/16513185/student_result_management.pdf)
 
-
-Benefits
-
-- Streamlines student result management process
-- Reduces manual errors and increases efficiency
-- Provides easy access to results for students
-- Helps administrators to track student performance effectively
